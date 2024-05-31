@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Applicationfasfasfa</string>
+    <string name="a_z"><![CDATA[A->Z]]></string>
+    <string name="z_a"><![CDATA[Z->A]]></string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+</resources>

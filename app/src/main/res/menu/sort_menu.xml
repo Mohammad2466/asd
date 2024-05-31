@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_aToz"
+        android:title="@string/a_z" />
+    <item
+        android:id="@+id/menu_zToa"
+        android:title="@string/z_a" />
+    <item
+        android:id="@+id/menu_dataAsc"
+        android:title="@string/ascending" />
+    <item
+        android:id="@+id/menu_dataDesc"
+        android:title="@string/descending" />
+</menu>

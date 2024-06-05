@@ -6,6 +6,7 @@
 
     </uses-permission>
     <application
+        android:networkSecurityConfig="@id/sort_menu"
         android:name=".MyApplication"
         android:allowBackup="true"
         tools:replace="android:allowBackup"
